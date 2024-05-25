@@ -55,6 +55,3 @@ The app consists of the following files:
 ## Conclusion
 
 This is a simple to-do list app that demonstrates how to use Express.js and EJS. It can be used as a starting point for building your own web apps with Node.js and JavaScript.
-```
-
-This version includes a link to see the app live and slightly improved formatting for better readability.
