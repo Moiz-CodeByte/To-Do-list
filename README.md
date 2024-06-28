@@ -1,4 +1,3 @@
-```markdown
 # To-Do List App
 
 This is a simple to-do list app built with Express.js and EJS.
